@@ -48,7 +48,8 @@ Evidemment #link("https://tenor.com/view/spider-man-uncle-ben-with-great-power-c
 
 = Pourquoi conserver Windows ?
 
-Il faut se poser cette question, quelle utilité avez vous de Windows? Quels logiciels utilisez vous, sont-ils compatibles avec Linux? Pouvez-vous simplement utiliser Linux? Il faut se poser ces questions, certaines fois conserver Windows est un confort que vous ne pouvez pas forcément vous permettre pour des raisons de mémoires par exemple, alors se poser la question de l'interêt d'un Dual Boot est parfos nécessaire. 
+Il faut se poser cette question, quelle utilité avez vous de Windows? Quels logiciels utilisez vous, sont-ils compatibles avec Linux? Pouvez-vous simplement utiliser Linux? Il faut se poser ces questions, certaines fois conserver Windows est un confort que vous ne pouvez pas forcément vous permettre pour des raisons de mémoires par exemple, alors se poser la question de l'interêt d'un Dual Boot est parfos nécessaire.\
+Conserver ce DualBoot permet par la même occasion d'avoir deux environnements qui n'ont pas le même but, un de jeu pour windows et un de developpement pour linux par exemple. L'inconvénient de cette méthode est que pour alterner entre les deux vous êtes obligé de redémarrer votre ordinateur. 
 
 = Quid de MacOS?
 
